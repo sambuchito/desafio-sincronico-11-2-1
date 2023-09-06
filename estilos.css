@@ -21,6 +21,7 @@
 }
 form {
     background-color: lemonchiffon;
+    
 }
 
 button{
@@ -35,4 +36,13 @@ button{
 
 button:hover{
     background-color: lightcyan;
+}
+
+hr {
+    width: 500px;
+}
+
+p {
+    font-size: x-small;
+    font-style: italic;
 }
