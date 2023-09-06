@@ -1,0 +1,38 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+::placeholder {
+    color: silver;
+    font-size: small;
+    font-weight: 100;
+    text-align: left;
+    /* margin-left: 10px; */
+    padding-left: 5px;
+}
+
+.input-name, .input-apellido {
+    width: 300px;
+    height: 25px;
+    border-radius: 3px;
+    box-shadow: unset;
+    
+}
+form {
+    background-color: lemonchiffon;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: lightyellow;
+    font-size: x-large;
+    color: black;
+    box-shadow: lightcoral;
+}
+
+button:hover{
+    background-color: lightcyan;
+}
